@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Dipu1-code.github.io/calculate-bmi/static/css/main.75128396.css",
+    "main.js": "/https//Dipu1-code.github.io/calculate-bmi/static/js/main.8685174b.js",
+    "static/js/787.4edac753.chunk.js": "/https//Dipu1-code.github.io/calculate-bmi/static/js/787.4edac753.chunk.js",
+    "index.html": "/https//Dipu1-code.github.io/calculate-bmi/index.html",
+    "main.75128396.css.map": "/https//Dipu1-code.github.io/calculate-bmi/static/css/main.75128396.css.map",
+    "main.8685174b.js.map": "/https//Dipu1-code.github.io/calculate-bmi/static/js/main.8685174b.js.map",
+    "787.4edac753.chunk.js.map": "/https//Dipu1-code.github.io/calculate-bmi/static/js/787.4edac753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75128396.css",
+    "static/js/main.8685174b.js"
+  ]
+}
